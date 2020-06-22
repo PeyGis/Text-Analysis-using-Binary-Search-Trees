@@ -1,0 +1,5 @@
+An Azure Reserved Virtual Machine Instance is an advanced purchase of a Virtual Machine for one or three years in a specified region.
+The commitment is made up front, and in return, you get up to 72 percent price savings compared to pay-as-you-go pricing.
+Reserved Virtual Machine Instances are flexible and can easily be exchanged or returned.
+Azure Virtual Machines gives you the flexibility of virtualization for a wide range of computing solutions with support for Linux, Windows Server, SQL Server, Oracle, IBM, SAP, and more. 
+All current generation Virtual Machines include load balancing and auto-scaling at no cost

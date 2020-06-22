@@ -1,0 +1,106 @@
+coffie
+../data/textfile1.txt
+My!!!! HE-ART is in the work
+My heart is in the WIRK
+Maximum number of probes: 4
+Average number of probes: 2.5
+heart	1 (3)
+in	2 (2)
+is	2 (1)
+my	2 (0)
+the	2 (1)
+work	1 (2)
+--------------------
+../data/textfile2.txt
+heart in is My the work
+Maximum number of probes: 6
+Average number of probes: 3.5
+heart	1 (0)
+in	1 (1)
+is	1 (2)
+my	1 (3)
+the	1 (4)
+work	1 (5)
+--------------------
+../data/textfile3.txt
+AN AZURE RESERVED VIRTUAL Machine Instance is AN advanced purchase of a VIRTUAL Machine for one or three YEARS in a SPECIFIED region.
+The commitment is MADE up front, and in return, you get up to 72 PERCENT price SAVINGS COMPARED to PAY-AS-YOU-GO PRICING.
+RESERVED VIRTUAL Machine INSTANCES ARE FLEXIBLE and can easily be EXCHANGED or RETURNED.
+AZURE VIRTUAL MACHINES GIVES you the FLEXIBILITY of VIRTUALIZATION for a wide range of COMPUTING SOLUTIONS with support for LINUX, WINDOWS SERVER, SQL SERVER, ORACLE, IBM, SAP, and more. All current generation VIRTUAL MACHINES include load BALANCING and AUTO-SCALING at no cost
+Maximum number of probes: 9
+Average number of probes: 5.2
+a	3 (3)
+advanced	1 (2)
+all	1 (6)
+and	4 (5)
+at	1 (8)
+be	1 (7)
+can	1 (6)
+commitment	1 (4)
+cost	1 (7)
+current	1 (6)
+easily	1 (5)
+for	3 (3)
+front	1 (5)
+generation	1 (7)
+get	1 (6)
+in	2 (4)
+include	1 (5)
+instance	1 (1)
+is	2 (2)
+load	1 (3)
+machine	3 (0)
+more	1 (3)
+no	1 (4)
+of	3 (2)
+one	1 (3)
+or	2 (4)
+price	1 (5)
+purchase	1 (1)
+range	1 (4)
+region	1 (3)
+return	1 (5)
+support	1 (6)
+the	2 (4)
+three	1 (2)
+to	2 (4)
+up	2 (3)
+wide	1 (5)
+with	1 (6)
+you	2 (4)
+--------------------
+../data/textfile4.txt
+Maximum number of probes: 0
+Average number of probes: 0.0
+--------------------
+../data/textfile5.txt
+DON'T steal my code.
+HOME-CLASSES 12
+BA2BD
+this(#*#) is not@#$% good!)_{@^
+Maximum number of probes: 5
+Average number of probes: 2.9
+code	1 (2)
+good	1 (4)
+is	1 (3)
+my	1 (1)
+not	1 (2)
+steal	1 (0)
+this	1 (1)
+--------------------
+../data/textfile6.txt
+Maximum number of probes: 0
+Average number of probes: 0.0
+--------------------
+../data/textfile7.txt
+My heart I-S in @##4THE work!!!!!!!!!!
+HELTA! KIN?S WER!TOU it'd some GH--ANA
+Maximum number of probes: 4
+Average number of probes: 2.5
+heart	1 (1)
+in	1 (2)
+it	1 (3)
+my	1 (0)
+some	1 (2)
+work	1 (1)
+--------------------

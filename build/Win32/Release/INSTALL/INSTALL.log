@@ -1,0 +1,27 @@
+﻿Build started 19/03/2020 10:45:30.
+     1>Project "C:\DSA\assignments\assignment4\build\INSTALL.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Release\INSTALL\INSTALL.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Release\INSTALL\INSTALL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       PostBuildEvent:
+         setlocal
+         "C:\Program Files (x86)\CMake\bin\cmake.exe" -DBUILD_TYPE=Release -P cmake_install.cmake
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+         -- Install configuration: "Release"
+         -- Installing: C:/DSA/assignments/assignment4/bin/coffie.exe
+       FinalizeBuildStatus:
+         Deleting file "Win32\Release\INSTALL\INSTALL.unsuccessfulbuild".
+         Touching "Win32\Release\INSTALL\INSTALL.lastbuildstate".
+     1>Done Building Project "C:\DSA\assignments\assignment4\build\INSTALL.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17
